@@ -1,4 +1,4 @@
-<img width="3776" height="657" alt="image" src="https://github.com/user-attachments/assets/395b8d4c-bd7c-47a6-bcad-fa75db24ea86" /># Dev Admin Dashboard
+# Dev Admin Dashboard
 
 A modern admin dashboard built with React and Tailwind CSS.
 
